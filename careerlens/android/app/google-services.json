@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328293627928",
+    "project_id": "careerlens-dac74",
+    "storage_bucket": "careerlens-dac74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328293627928:android:7a98e9454f229245a1eb6d",
+        "android_client_info": {
+          "package_name": "com.example.careerlens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx-wQJYlnr0Rzck2QINKJBl5XBMWGtShw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
